@@ -1,0 +1,6 @@
+framework module Pods_SplitView {
+  umbrella header "Pods-SplitView-umbrella.h"
+
+  export *
+  module * { export * }
+}
